@@ -1,2 +1,3 @@
 # component-base
-Shared code for KusionStack core components.
+
+This repo contains common code shared by all KusionStack core components. 
